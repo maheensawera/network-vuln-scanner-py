@@ -1,5 +1,3 @@
-This scans the target defined in `TARGET` and saves results to `scan_results.json`.
-
 # Network Vulnerability Scanner & Reporter
 
 A Python-based security tool that automates network reconnaissance, cross-references discovered services against the NVD (National Vulnerability Database), and generates professional PDF vulnerability reports.
